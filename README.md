@@ -1,10 +1,10 @@
 # Elixir: A Talk For College Students
 
-This was a talk made during CodeWeek 15 @ [Dept. Informática](http://www.di.uminho.pt), [UMinho](http://www.uminho.pt/en/home_en), for @cesium.
+This was a talk made during CodeWeek 15 @ [Dept. Informática](http://www.di.uminho.pt), [UMinho](http://www.uminho.pt/en/home_en), for [CeSIUM](https://github.com/cesium).
 
 This repository contains the code examples used during the talk plus a more complete version. It does not contain the best possible version, but a friendlier one, with lots of different resources.
 
-Slides are available [here]().
+Slides are available [here](https://speakerdeck.com/frmendes/elixir-a-talk-for-college-students).
 
 ## Queue
 
